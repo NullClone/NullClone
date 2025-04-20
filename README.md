@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=NullClone" />
-</div>
+頑張る！
 
 ## Activities
 <div align="left"> 
@@ -13,3 +11,7 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
 <br>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=NullClone" />
+</div>
