@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <b>
-<size = 24>
 I am still growing.
-</size>
 </b>
 
 ## Activities
@@ -12,8 +10,8 @@ I am still growing.
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullClone&theme=vue-dark&layout=compact" />
 </div>
 
-##　Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+## Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=C#,C++" />
 <br>
 
 <div align="right">
