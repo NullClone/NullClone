@@ -11,7 +11,7 @@ I am still growing.
 </div>
 
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=C#,C++" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs" />
 <br>
 
 <div align="right">
