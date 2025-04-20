@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <b>
+<size = 24>
 I am still growing.
+</size>
 </b>
 
 ## Activities
