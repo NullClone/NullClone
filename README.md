@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=username" />
+</div>
+
 <!--
 **NullClone/NullClone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
