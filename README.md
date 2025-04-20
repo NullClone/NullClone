@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=username" />
 </div>
 
-<!-- 2. GitHub usernameを変更, 2箇所 -->
+<!-- 1. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## Activities
 <div align="left"> 
